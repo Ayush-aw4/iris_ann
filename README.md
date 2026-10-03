@@ -334,7 +334,7 @@ Then choose **Kernel → Restart & Run All**. The notebook expects `Iris.csv` in
 
 ## 👤 Author
 
-**Ayush Shriram Awchar**
+**Ayush Awchar**
 GitHub: [@Ayush-aw4](https://github.com/Ayush-aw4)
 
 If this project helped you, consider giving it a ⭐.
